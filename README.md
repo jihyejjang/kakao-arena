@@ -4,6 +4,6 @@ https://arena.kakao.com/
 
 ---
 ### branch
-[류지혜](https://github.com/minji-o-j/kakao-arena/jihye)  
-[이지민](https://github.com/minji-o-j/kakao-arena/jimin)  
-[정민지](https://github.com/minji-o-j/kakao-arena/minji)  
+[류지혜](https://github.com/minji-o-j/kakao-arena/tree/jihye)  
+[이지민](https://github.com/minji-o-j/kakao-arena/tree/jimin)  
+[정민지](https://github.com/minji-o-j/kakao-arena/tree/minji)  
