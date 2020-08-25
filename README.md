@@ -1,6 +1,8 @@
 # kakao-arena
 멜론 플레이리스트 예측
 
+### k-means clustering
+
 ![0001](https://user-images.githubusercontent.com/61912635/91068127-c4287c00-e66e-11ea-9ab9-723fe9f62f53.jpg)
 
 ![0002](https://user-images.githubusercontent.com/61912635/91068128-c4c11280-e66e-11ea-87a9-107b7dc81491.jpg)
