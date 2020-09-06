@@ -1,5 +1,14 @@
 # kakao-arena
-멜론 플레이리스트 예측
+
+ - 멜론 플레이리스트 예측 대회 (참여x)
+
+ - 주로 활용하던 image data가 아닌 excel 데이터, label이 없어서 classification하기 애매한 문제 -> 비지도학습을 활용
+ 
+ - 비지도학습의 대표적인 clustering을 다뤄보았고, 연관규칙 분석에 대해서도 알게 되었음
+ 
+ - 빅데이터문제의 가장 큰 벽은 memory문제 : window의 페이징 크기를 키워서 해결
+ 
+ - 이런 추천 및 특성 파악에 대한 문제를 해결하는 autoencoder에 대해 더 자세히 공부할 예정
 
 ### k-means clustering
 
